@@ -1,5 +1,4 @@
-chance = 10
-no_of_chance = 10
+n=int(input("no of chance:"))
 computer_point = 0
 draw_point = 0
 user_point = 0
